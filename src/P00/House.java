@@ -40,7 +40,7 @@ public class House {
         this.size = size;
     }
 
-    public void openDoor(){
+    public void openDoor() {
          System.out.println("La puerta está abierta");  // pongo void pq no espero un valor como respuesta
      }
 
